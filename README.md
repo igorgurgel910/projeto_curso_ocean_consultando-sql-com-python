@@ -1,18 +1,33 @@
-## Curso Programando para web com Python, CSS e HTML
+## Curso Consultando Bases SQL com Python
 
-Este repositório foi criado para registrar o conteúdo e os exercícios da Programando para web com Python, CSS e HTML. Este projeto tem como objetivo aprendizado, pois busco transição de carreira para Tecnologia da informação.
+Este repositório foi criado para registrar o conteúdo e os exercícios da Consultando Bases SQL com Python. Este projeto tem como objetivo aprendizado, pois busco transição de carreira para Tecnologia da informação.
 
 Empresa: Ocean Brasil <br>
-Nome do curso: Programando para web com Python, CSS e HTML<br>
-URL: https://www.oceanbrasil.com/atividades/3061-Programando-para-web-com-Python-CSS-e-HTML<br>
-Conteúdo: Faremos uma implementação do python com o HTML e CSS, utilizados para a construção de sites. Com esse curso você vai entender como essa mistura de linguagens funciona e como saber se organizar durante a construção de aplicações, tirando um pouco do medo que temos quando o assunto é combinar diferentes linguagens em uma única aplicação.<br>
+Nome do curso: Consultando Bases SQL com Python<br>
+URL: https://www.oceanbrasil.com/atividades/3047-Consultando-Bases-SQL-com-Python<br>
+Conteúdo: Aprender a interagir e extrair informações de um SGBD utilizando o framework SQLAlchemy.<br>
+PARTE 1:
+- O que são bancos de dados e suas aplicações
+- Sistemas Gerenciadores de Bancos de Dados (SGBD)
+- O Modelo Relacional
+- O padrão SQL e seus dialetos
+- Criando um banco de dados em um SGBD
+- A linguagem de descrição de dados (DDL)
+- A linguagem de manipulação de dados (DML)
+- A linguagem de busca de dados (DQL)
+- Criando tabelas que expressam relacionamentos entre entidades
+- Consultando dados com junções (Join)
+- Exercícios para fixação
 
+PARTE 2:
+Com base nos comandos SQL aprendidos na Parte 1, veremos as diferentes formas de interagir com um SGBD utilizando a linguagem Python e o framework SQLAlchemy.
+
+- O que é um Framework
+- Conectando a um banco de dados com o SQLAlchemy
+- Realizando comandos SQL com a linguagem Python
+- Utilizando as abstrações disponibilizadas pelo SQLAlchemy
+- Pequena revisão de Orientação a Objetos em Python
+- Mapeamento Objeto Realcional (ORM)
+<br>
 Avaliação do curso:<br>
-
-Detalhamento das atividades:
-
-### Aula 01 - 2023/02/13<br>
-Nesta aula, conhecemos um pouco sobre GitHub, criando repositório e o professor utilizou gitpod.io para gerenciar a aula.
-Foi utilizado o comando pip install flask para instalar essa biblioteca, depois criado um arquivo app.py simples para testar o comando "Hello World".
-Foi orientado abrir localhost:5000
-Mas não foi possível realizar estas tarefas via VSC desktop.
+Curso foi bom, mas bastante conteúdo sobre python, que eu ainda não tinha estudado.
